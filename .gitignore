@@ -1,0 +1,20 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Environment variables or config
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
